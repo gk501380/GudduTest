@@ -1,0 +1,9 @@
+package StaticKeyWord;
+
+ class StaticKeyWord {
+	
+	
+	
+}
+	
+	
